@@ -26,7 +26,6 @@ Densidad_sinergias
 DMI_TotalTWG_TotalProductividad_Laboral_TotalEco_eficiencia_TotalEco_intensidad_Total
 UtilidadesIngreso_totalcostos_energia
 Personal_local_total
-Emergy_yrEmergy_lrEmergy_si
 Eco_intensidadEco_eficiencia_2
 
 VARIABLES DE SINERGIA
@@ -99,8 +98,7 @@ Emisiones
 
 TOE
 Consumo_MPGeneracion_RESElectricidad_producto
-DMI_TrabajadorDMI_Total_EmpTWG_TrabajadorTWG_Total_EmpProductividad_LaboralProductividad_Total
-Emergia_trabajoEmergia_RNREmergia_RREmergia_RIMPEmergia_RES]
+DMI_TrabajadorDMI_Total_EmpTWG_TrabajadorTWG_Total_EmpProductividad_LaboralProductividad_Total]
 
 garbages-own[
 Res_total]
@@ -207,9 +205,6 @@ Table:putEXP_indices"Iteracion"["Mes"
 "Personal_local_(%)"
 "DMI_total"
 "TWG_total"
-"Emergy_Yield_Rate"
-"Emergy_Load_Rate"
-"Emergy_Sustainability_Index"
 "Posibles_sinergias"
 "Sinergias_establecidas"]
 
